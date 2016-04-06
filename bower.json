@@ -1,0 +1,21 @@
+{
+  "name": "heat-index-calculator",
+  "description": "Heat Index Calculator for WeatherPhilippines Foundation",
+  "main": "app/index.html",
+  "authors": [
+    "Neil John P. Ramal <ramalneiljohn@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/travellhyne/HeatIndexCalculator",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0"
+  }
+}
